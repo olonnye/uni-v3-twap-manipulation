@@ -1,0 +1,7 @@
+
+*.xlsx
+*.gz
+*.dvi
+*.log
+*.aux
+'~$twap-manipulation-calcs.xlsx'
