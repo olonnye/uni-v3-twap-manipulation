@@ -2,6 +2,7 @@
 *.xlsx
 *.gz
 *.dvi
-*.log
-*.aux
+cost-of-attack.aux
+cost-of-attack.log
+cost-of-attack.tex
 '~$twap-manipulation-calcs.xlsx'
